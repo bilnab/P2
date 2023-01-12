@@ -20,7 +20,7 @@ Jeu de données **opendata:**
 )  
 
 ## Script   
-un notebook commenté [lien](https://github.com/bilnab/P2/blob/main/P2%20analyse%20exploratoire.ipynb) présentant:  
+[un notebook commenté](https://github.com/bilnab/P2/blob/main/P2%20analyse%20exploratoire.ipynb) présentant:  
 * une analyse de donnée basique mais pertinente 
 * en markdown  
 
