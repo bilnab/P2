@@ -25,5 +25,5 @@ Jeu de données **opendata:**
 * en markdown  
 
 ## Présentation PDF:  
-[pdf complet](https://github.com/bilnab/P1/blob/main/P2.pdf)  
+[pdf complet](https://github.com/bilnab/P2/blob/main/P2.pdf)  
 <img src="https://github.com/bilnab/P2/blob/main/img/p2%20pres.png" height="300">
