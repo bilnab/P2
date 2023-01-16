@@ -1,12 +1,11 @@
-# P2  
- <img src="https://github.com/bilnab/P2/blob/main/img/smartcity.png" width="150"> <img src="https://github.com/bilnab/P2/blob/main/img/analyseexploratoire.png" width="150"> <img src="https://github.com/bilnab/P2/blob/main/img/pandas.png" width="150">  
-**projet d'analyse exploratoire autour des arbres de Paris**  
+# P2: **projet d'analyse exploratoire autour des arbres de Paris**  
+ <img src="/img/smartcity.png" width="150"> <img src="/img/analyseexploratoire.png" width="150"> <img src="/img/pandas.png" width="150">   
   
-**Smart City** :    
+## Smart City:     
 Analyse exploratoire en python d'un jeu de données sur les arbres de Paris.
 Proposer une optimisation "de bon sens" des tournées d'entretien  
   
-**Contexte**  
+## Contexte:  
 Paris compte plus de 200 000 arbres (hors bois: 300 000 autres gérés différemment) situés dans les rues, les espaces verts et les équipements municipaux.  
 Moins de 1,5 % (3000 arbres) du patrimoine arboré doit être abattu pour des raisons de sécurité.  
 Un arbre doit être abattu lorsqu’il présente un risque de chute ou de contamination d’autres arbres.  
@@ -20,10 +19,10 @@ Jeu de données **opendata:**
 )  
 
 ## Script   
-[un notebook commenté](https://github.com/bilnab/P2/blob/main/P2%20analyse%20exploratoire.ipynb) présentant:  
+[un notebook commenté](/P2%20analyse%20exploratoire.ipynb) présentant:  
 * une analyse de donnée basique mais pertinente 
 * en markdown  
 
 ## Présentation PDF:  
-[pdf complet](https://github.com/bilnab/P2/blob/main/P2.pdf)  
-<img src="https://github.com/bilnab/P2/blob/main/img/p2%20pres.png" height="300">
+[pdf complet](/P2.pdf)  
+<img src="/img/p2%20pres.png" height="300">
